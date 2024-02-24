@@ -1,0 +1,13 @@
+.item{
+    margin: 5px 5px;
+    color:rgb(37, 6, 72);
+}
+.item button{
+    margin-left: 5px;
+}
+.from-order{
+    background-color: rgb(196, 7, 7);
+    padding: 30px 10px 30px 10px;
+    color: white;
+    text-align: center;
+}
